@@ -77,7 +77,7 @@ This is an incomplete briefing, so I think it's best to link to other sources wh
   <li><a href="https://opensource.org/licenses">OpenSource.org</a></li>
   <li><a href="https://opensource.guide/legal/">Open Source Guide</a></li>
   <li><a href="https://snyk.io/learn/open-source-licenses/">Open Source Licenses: Types and Comparison</a> - a similar guide</li>
-  <br/><lh>Youtube Videos (linked through <a href="https://github.com/iv-org/invidious">Invidious</a>, a "free" youtube frontend</lh>
+  <br/><lh>Youtube Videos (linked through <a href="https://github.com/iv-org/invidious">Invidious</a>, a "free" youtube frontend)</lh>
   <li><a href="https://invidious.snopyta.org/watch?v=cJIi-hIlCQM">CppCon 2015: Kevin P. Fleming “A Crash Course in Open Source Licensing"</a></li>
   <li><a href="https://invidious.snopyta.org/watch?v=OnmWFxlG2GA">How to Choose an Open Source License | HackBeanpot 2018</a></li>
   <li><a href="https://invidious.snopyta.org/watch?v=9kGrKBOytYM">Felix Crux What You Need to Know About Open Source Licenses PyCon 2016</a></li>
