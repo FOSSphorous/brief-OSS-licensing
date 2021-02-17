@@ -54,11 +54,16 @@ The BSD licenses nowadays boil down to "Don't claim you wrote this. Don't blame 
 
 # How to choose a license / What licenses are available?
 Think to yourself what you want your software to accomplish. 
+
 Do you want to ensure that everyone can be sure of what's within the code they're getting no matter what happens to it? 
+
 Do you want to make sure that it can be used for things you might not have thought of if being used for (for the sake of example, imagine building something with cars in mind and someone realizing that it would work in ships and airplanes too)? 
+
 Is this a hobby project and/or you just want your software to be available to whoever can make use of it, regardless of if they give back code or not (a "private use" clause)?
+
 Do you want people to even be able to make changes to your code?
-Do you want to be noted as the person who created the software, or are you fine with not being acknowledged explicitly so long as they don't claim to have written it? Maybe you don't care about credit. 
+
+Do you want to be noted as the person who created the software, or are you fine with not being explicitly acknowledged so long as they don't claim to have written it? Maybe you don't care about credit. 
 
 There's a lot that can go into the decision and a lot of licenses for you to choose from that fit your specific (or general) needs.
 That said, I advise against coming up with your own unique licenses. Whenever a new license pops up people need to do costly work to evaluate how enforcable they are and what licenses they're compatible with. There are thousands of licenses out there. Not exactly cheap or fun times.
