@@ -65,6 +65,8 @@ Do you want people to even be able to make changes to your code?
 
 Do you want to be noted as the person who created the software, or are you fine with not being explicitly acknowledged so long as they don't claim to have written it? Maybe you don't care about credit. 
 
+If you're working with/for a community, what licenses are common/acceptable within them?
+
 There's a lot that can go into the decision and a lot of licenses for you to choose from that fit your specific (or general) needs.
 That said, I advise against coming up with your own unique licenses. Whenever a new license pops up people need to do costly work to evaluate how enforcable they are and what licenses they're compatible with. There are thousands of licenses out there. Not exactly cheap or fun times.
 
