@@ -53,13 +53,13 @@ The software is free to use still. The license is often a bit more flexible than
 The BSD licenses nowadays boil down to "Don't claim you wrote this. Don't blame me if it breaks. Don't use my name to promote your product."
 
 # How to choose a license / What licenses are available?
-Think to yourself what you want your software to accomplish. 
+Think to yourself about what you want your software to accomplish. 
 
 Do you want to ensure that everyone can be sure of what's within the code they're getting no matter what happens to it? 
 
-Do you want to make sure that it can be used for things you might not have thought of if being used for (for the sake of example, imagine building something with cars in mind and someone realizing that it would work in ships and airplanes too)? 
+Do you want to make sure that it can be used for things you might not have thought of it being used for? (For the sake of example, imagine building something with cars in mind and someone realizing that it would work in ships and airplanes too.)
 
-Is this a hobby project and/or you just want your software to be available to whoever can make use of it, regardless of if they give back code or not (a "private use" clause)?
+Is this a hobby project and/or you just want your software to be available to whoever can make use of it, regardless of if they give back code or not? (a "private use" clause.)
 
 Do you want people to even be able to make changes to your code?
 
