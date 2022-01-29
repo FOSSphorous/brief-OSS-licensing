@@ -80,7 +80,7 @@ This is an incomplete briefing, so I think it's best to link to other sources wh
   <li><a href="https://opensource.guide/legal/">Open Source Guide</a></li>
   <li><a href="https://snyk.io/learn/open-source-licenses/">Open Source Licenses: Types and Comparison</a> - a similar guide</li>
   <br/><lh>Youtube Videos (linked through <a href="https://github.com/iv-org/invidious">Invidious</a>, a "free" youtube frontend)</lh>
-  <li><a href="https://vid.mint.lgbt/watch?v=cJIi-hIlCQM">CppCon 2015: Kevin P. Fleming “A Crash Course in Open Source Licensing"</a></li>
-  <li><a href="https://vid.mint.lgbt/watch?v=OnmWFxlG2GA">How to Choose an Open Source License | HackBeanpot 2018</a></li>
-  <li><a href="https://vid.mint.lgbt/watch?v=9kGrKBOytYM">Felix Crux What You Need to Know About Open Source Licenses PyCon 2016</a></li>
+  <li><a href="https://inv.riverside.rocks/watch?v=cJIi-hIlCQM">CppCon 2015: Kevin P. Fleming “A Crash Course in Open Source Licensing"</a><a href="https://youtube.com/watch?v=cJIi-hIlCQM"><sub>[direct youtube link]</sub></a></li>
+  <li><a href="https://inv.riverside.rocks/watch?v=OnmWFxlG2GA">How to Choose an Open Source License | HackBeanpot 2018</a><a href="https://youtube.com/watch?v=OnmWFxlG2GA"><sub>[direct youtube link]</sub></a></li>
+  <li><a href="https://inv.riverside.rocks/watch?v=9kGrKBOytYM">Felix Crux What You Need to Know About Open Source Licenses PyCon 2016</a><a href="https://youtube.com/watch?v=9kGrKBOytYM"><sub>[direct youtube link]</sub></a></li>
 </ul>
